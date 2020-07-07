@@ -1,51 +1,51 @@
-,State,2016 presidentialelection,Governor,State Senate,State House,SeniorU.S. Senator,JuniorU.S. Senator,U.S. House of Representatives,Partisan split (as of 2018[update])
-0,Alabama,Republican,Republican,Republican,Republican,Republican,Democratic,Republican,Republican
-1,Alaska,Republican,Republican,Republican,Coalition,Republican,Republican,Republican,Republican
-2,Arizona,Republican,Republican,Republican,Republican,Democratic,Republican,Democratic,Republican
-3,Arkansas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-4,California,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-5,Colorado,Democratic,Democratic,Democratic,Democratic,Democratic,Republican,Democratic,Democratic
-6,Connecticut,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-7,Delaware,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-8,Florida,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic
-9,Georgia,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic
-10,Hawaii,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-11,Idaho,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-12,Illinois,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-13,Indiana,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-14,Iowa,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,Democratic
-15,Kansas,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Republican
-16,Kentucky,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic
-17,Louisiana,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic
-18,Maine,Democratic,Democratic,Democratic,Democratic,Republican,Independent,Democratic,Democratic
-19,Maryland,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-20,Massachusetts,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-21,Michigan,Republican,Democratic,Republican,Republican,Democratic,Democratic,Democratic,Democratic
-22,Minnesota,Democratic,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic
-23,Mississippi,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-24,Missouri,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-25,Montana,Republican,Democratic,Republican,Republican,Democratic,Republican,Republican,Republican
-26,Nebraska,Republican,Republican,Unicameral nonpartisan legislature,Unicameral nonpartisan legislature,Republican,Republican,Republican,Republican
-27,Nevada,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-28,New Hampshire,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-29,New Jersey,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-30,New Mexico,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-31,New York,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-32,North Carolina,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic
-33,North Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-34,Ohio,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Republican
-35,Oklahoma,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-36,Oregon,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-37,Pennsylvania,Republican,Democratic,Republican,Republican,Democratic,Republican,Tied,Democratic
-38,Rhode Island,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-39,South Carolina,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-40,South Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-41,Tennessee,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-42,Texas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-43,Utah,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
-44,Vermont,Democratic,Republican,Democratic,Democratic,Democratic,Independent,Democratic,Democratic
-45,Virginia,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-46,Washington,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
-47,West Virginia,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Democratic
-48,Wisconsin,Republican,Democratic,Republican,Republican,Republican,Democratic,Republican,Tied
-49,Wyoming,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+State,2016 presidentialelection,Governor,State Senate,State House,SeniorU.S. Senator,JuniorU.S. Senator,U.S. House of Representatives,Partisan split (as of 2018[update])
+Alabama,Republican,Republican,Republican,Republican,Republican,Democratic,Republican,Republican
+Alaska,Republican,Republican,Republican,Coalition,Republican,Republican,Republican,Republican
+Arizona,Republican,Republican,Republican,Republican,Democratic,Republican,Democratic,Republican
+Arkansas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+California,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Colorado,Democratic,Democratic,Democratic,Democratic,Democratic,Republican,Democratic,Democratic
+Connecticut,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Delaware,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Florida,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic
+Georgia,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic
+Hawaii,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Idaho,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Illinois,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Indiana,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Iowa,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,Democratic
+Kansas,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Republican
+Kentucky,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic
+Louisiana,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic
+Maine,Democratic,Democratic,Democratic,Democratic,Republican,Independent,Democratic,Democratic
+Maryland,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Massachusetts,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Michigan,Republican,Democratic,Republican,Republican,Democratic,Democratic,Democratic,Democratic
+Minnesota,Democratic,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic
+Mississippi,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Missouri,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Montana,Republican,Democratic,Republican,Republican,Democratic,Republican,Republican,Republican
+Nebraska,Republican,Republican,Unicameral nonpartisan legislature,Unicameral nonpartisan legislature,Republican,Republican,Republican,Republican
+Nevada,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+New Hampshire,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+New Jersey,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+New Mexico,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+New York,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+North Carolina,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic
+North Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Ohio,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Republican
+Oklahoma,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Oregon,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Pennsylvania,Republican,Democratic,Republican,Republican,Democratic,Republican,Tied,Democratic
+Rhode Island,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+South Carolina,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+South Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Tennessee,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Texas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Utah,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican
+Vermont,Democratic,Republican,Democratic,Democratic,Democratic,Independent,Democratic,Democratic
+Virginia,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+Washington,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic
+West Virginia,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Democratic
+Wisconsin,Republican,Democratic,Republican,Republican,Republican,Democratic,Republican,Tied
+Wyoming,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican

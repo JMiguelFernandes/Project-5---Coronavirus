@@ -1,59 +1,59 @@
-,State,Confirmed_cases,Deaths
-0,Alabama,42862,1007
-1,Alaska,1107,16
-2,American Samoa,0,0
-3,Arizona,94567,1817
-4,Arkansas,23209,286
-5,California,252895,6334
-6,Colorado,33849,1701
-7,Connecticut,46717,4335
-8,Delaware,11996,512
-9,Diamond Princess,49,0
-10,District of Columbia,10447,557
-11,Florida,190052,3702
-12,Georgia,93319,2857
-13,Grand Princess,103,3
-14,Guam,280,5
-15,Hawaii,999,19
-16,Idaho,7370,93
-17,Illinois,146612,7014
-18,Indiana,47432,2687
-19,Iowa,31061,721
-20,Kansas,15911,283
-21,Kentucky,16376,585
-22,Louisiana,63289,3278
-23,Maine,3397,107
-24,Maryland,69341,3236
-25,Massachusetts,109838,8172
-26,Michigan,72581,6218
-27,Minnesota,37624,1503
-28,Mississippi,30674,1107
-29,Missouri,23583,1050
-30,Montana,1167,23
-31,Nebraska,19827,284
-32,Nevada,21575,530
-33,New Hampshire,5872,379
-34,New Jersey,173033,15189
-35,New Mexico,13063,513
-36,New York,396598,32157
-37,North Carolina,71670,1422
-38,North Dakota,3779,80
-39,Northern Mariana Islands,31,2
-40,Ohio,56183,2907
-41,Oklahoma,15648,398
-42,Oregon,9930,213
-43,Pennsylvania,93922,6749
-44,Puerto Rico,7787,155
-45,Rhode Island,16991,960
-46,South Carolina,43386,813
-47,South Dakota,7028,97
-48,Tennessee,50140,637
-49,Texas,192153,2607
-50,Utah,24542,181
-51,Vermont,1238,56
-52,Virgin Islands,111,6
-53,Virginia,65109,1849
-54,Washington,35247,1354
-55,West Virginia,3205,94
-56,Wisconsin,31055,796
-57,Wyoming,1606,20
+State,Confirmed_cases,Deaths
+Alabama,42862,1007
+Alaska,1107,16
+American Samoa,0,0
+Arizona,94567,1817
+Arkansas,23209,286
+California,252895,6334
+Colorado,33849,1701
+Connecticut,46717,4335
+Delaware,11996,512
+Diamond Princess,49,0
+District of Columbia,10447,557
+Florida,190052,3702
+Georgia,93319,2857
+Grand Princess,103,3
+Guam,280,5
+Hawaii,999,19
+Idaho,7370,93
+Illinois,146612,7014
+Indiana,47432,2687
+Iowa,31061,721
+Kansas,15911,283
+Kentucky,16376,585
+Louisiana,63289,3278
+Maine,3397,107
+Maryland,69341,3236
+Massachusetts,109838,8172
+Michigan,72581,6218
+Minnesota,37624,1503
+Mississippi,30674,1107
+Missouri,23583,1050
+Montana,1167,23
+Nebraska,19827,284
+Nevada,21575,530
+New Hampshire,5872,379
+New Jersey,173033,15189
+New Mexico,13063,513
+New York,396598,32157
+North Carolina,71670,1422
+North Dakota,3779,80
+Northern Mariana Islands,31,2
+Ohio,56183,2907
+Oklahoma,15648,398
+Oregon,9930,213
+Pennsylvania,93922,6749
+Puerto Rico,7787,155
+Rhode Island,16991,960
+South Carolina,43386,813
+South Dakota,7028,97
+Tennessee,50140,637
+Texas,192153,2607
+Utah,24542,181
+Vermont,1238,56
+Virgin Islands,111,6
+Virginia,65109,1849
+Washington,35247,1354
+West Virginia,3205,94
+Wisconsin,31055,796
+Wyoming,1606,20
