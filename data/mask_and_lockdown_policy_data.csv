@@ -1,4 +1,4 @@
-index,Date_first_100_infections,Infections,State,Date_first_100_deaths,Deaths,PublicMask_start,PublicMask_eased,PublicMask_ended,StayAtHome_start,StayAtHome_eased,StayAtHome_ended,StayAtHome_Delta,PublicMask_Delta,StayAtHome_deaths_Delta,PublicMask_deaths_Delta,PublicMask_policy_eased,StayAtHome_policy_eased,PublicMask_policy_days_ended,StayAtHome_policy_days_ended
+index,Date_first_100_infections,Infections,State,Date_first_100_deaths,Deaths,PublicMask_start,PublicMask_eased,PublicMask_ended,StayAtHome_start,StayAtHome_eased,StayAtHome_ended,StayAtHome_Delta,PublicMask_Delta,StayAtHome_deaths_Delta,PublicMask_deaths_Delta,PublicMask_policy_eased,StayAtHome_policy_eased,PublicMask_policy_ended,StayAtHome_policy_ended
 0,2020-04-05,112,Guam,,,,,,,,,,,,,,,,
 1,2020-03-28,100,Puerto Rico,2020-05-07,102.0,,,,,,,,,,,,,,
 2,2020-07-04,111,Virgin Islands,,,,,,,,,,,,,,,,
