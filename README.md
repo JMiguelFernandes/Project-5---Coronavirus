@@ -38,7 +38,7 @@ In that context, we worked together on the analysis and created visualizations u
 
 
 ## Analysis
-![]()
+![](images/stay_at_home_orders_plot.png)
 
 
 ## Links
