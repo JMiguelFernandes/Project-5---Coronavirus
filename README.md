@@ -1,10 +1,17 @@
 # Project 6 - Visualizing Real World Data
 
-Project by Shelley Obery, Nicholas *get last name* and João Fernandes
+Project by Shelley Obery, Nicholas Gotzens and João Fernandes
 
 ## Project Description
 
-## Sourcing the data
+This project is part of the IronHack Data Analytics Bootcamp and its goal is to practice creating and interpreting different types of visualizations using real world data as well as statistical analysis. Our team decided to work on the topic of Covid-19 in the USA.
+In that coherence we analyzed if there is a correlation between the number of Covid-19 cases, as well as deaths, and the political landscape of the different U.S. states. In addition, the population density and laws at federal level were analysed.
+
+## Questions & Hypotheses
+
+In the beginning of the project, the general question arose, if the U.S. political landscape is affecting the number of outbreaks and deaths of the Covid-19 pandemic. As political ruling should'nt have a good or bad influence on the evolvment of pandemics, we decided to start with the null hypotheses that political parties dont affect the numbers of Covid-19 cases and deaths. To further supplement our analysis, we also included other factors to our analysis, like lockdown policies, mask policies and population density.
+
+## Data
 
 #### Covid-19 epidemiological data
 
@@ -23,9 +30,17 @@ For data regarding the political landscape of each state in the US, we scraped [
 State population and population density was obtained from [here] (https://worldpopulationreview.com/state-rankings/state-densities) as a csv file and can be found in the raw_data folder
 
 
-## Analysis workflow
+## Workflow & Organization
 
-## Organization
+Starting our project, we first discussed possible topics of interest. Later, we decided on the topic of Covid-19 in the U.S. and developed a Trello Board in order to get an overview of the different tasks neccerssary. After allocating the tasks, which included data cleaning, the analysis of the data, as well as its visualisation and the creation of a presentation. 
+
+In that context, we worked together on the analysis and created visualizations using Tableau Public for our presentation. Yet, the heart of the analysis are the graphs using Matplotlib in the Jupyter Notebook. After this process, we created the slides, adding all the information possible that a 5 minute presentation allow. 
+
 
 ## Links
+
 [Trello](https://trello.com/b/vm5KySnv/week-6-project)
+--- REPOSITORY ---
+--- SLIDES ---
+--- TABLEAU ---
+--- NOTEBOOK ---
