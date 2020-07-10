@@ -4,18 +4,31 @@ Project by Shelley Obery, Nicholas Gotzens and João Fernandes
 
 ## Project Description
 
-This project is part of the IronHack Data Analytics Bootcamp and its goal is to practice creating and interpreting different types of visualizations using real world data as well as statistical analysis. Our team decided to work on the topic of Covid-19 in the USA.
-In that coherence we analyzed if there is a correlation between the number of Covid-19 cases, as well as deaths, and the political landscape of the different U.S. states. In addition, the population density and laws at federal level were analysed.
+This project is part of the IronHack Data Analytics Bootcamp and its goal is to practice creating and interpreting different types of visualizations using real world data, as well as statistical analysis. 
+
+Our team decided to work on the topic of Covid-19 in the USA.
+_______
 
 ## Questions & Hypotheses
 
-In the beginning of the project, the general question arose, if the U.S. political landscape is affecting the number of outbreaks and deaths of the Covid-19 pandemic. As political ruling should'nt have a good or bad influence on the evolvment of pandemics, we decided to start with the null hypotheses that political parties dont affect the numbers of Covid-19 cases and deaths. To further supplement our analysis, we also included other factors to our analysis, like lockdown policies, mask policies and population density.
+We were interested in understanding whether there were differences between Democratic and Republican states in terms of handling and outcomes of the COVID-19 pandemic. Specifically, we wanted to answer the following:
+
+- Were there differences in the number of cases or deaths (total numbers and per capita)?
+- What factors influenced the number of cases or deaths?
+- How have different policies (stay at home orders, public mask mandates) affected the evolution of the pandemic?
+- Were there differences in the implementation of these policies between Democratic and Republican states?
+- How do Democratic and Republican states compare in terms of testing?
+_________
 
 ## Data
 
 #### Covid-19 epidemiological data
 
 We retrieved data regarding the number of confirmed cases, deaths and recoveries for each US state from Datahub ([here](https://datahub.io/core/covid-19#resource-covid-19_zip)). This data covered the time period between 2020-01-22 and 2020-07-04. It was available as a csv file, which can be found in the raw_data folder.
+
+#### Data on testing by state
+
+Data concerning testing by state was obtained from the Covid Tracking Project API [here](https://covidtracking.com/data/download).
 
 #### Covid-19 policy data
 
@@ -27,12 +40,12 @@ For data regarding the political landscape of each state in the US, we scraped [
 
 #### US population data
 
-State population and population density was obtained from [here] (https://worldpopulationreview.com/state-rankings/state-densities) as a csv file and can be found in the raw_data folder
-
+State population and population density was obtained from [here](https://worldpopulationreview.com/state-rankings/state-densities) as a csv file and can be found in the raw_data folder
+__________
 
 ## Workflow & Organization
 
-Starting our project, we first discussed possible topics of interest. Later, we decided on the topic of Covid-19 in the U.S. and developed a Trello Board in order to get an overview of the different tasks neccerssary. After allocating the tasks, which included data cleaning, the analysis of the data, as well as its visualisation and the creation of a presentation. 
+Starting our project, we first discussed possible topics of interest. Later, we decided on the topic of Covid-19 in the U.S. and developed a Trello Board in order to get an overview of the different tasks necessary. We then allocated the tasks, which included data cleaning, the analysis of the data, as well as its visualisation and the creation of a presentation. We met regularly every day, every one to two hours, to discuss our progress and the next steps.
 
 In that context, we worked together on the analysis and created visualizations using Tableau Public for our presentation. Yet, the heart of the analysis are the graphs using Matplotlib in the Jupyter Notebook. After this process, we created the slides, adding all the information possible that a 5 minute presentation allow. 
 
@@ -44,6 +57,6 @@ In that context, we worked together on the analysis and created visualizations u
 ## Links
 
 * [Trello](https://trello.com/b/vm5KySnv/week-6-project)
-* [Tableau](https://public.tableau.com/profile/nicholas5299#!/vizhome/Week6Project_15941277490120/PopulationdensitywithinthestatesoftheUSAincorrelationwithconfirmedcasesofCovid-19)
-* [Tableau](https://public.tableau.com/profile/nicholas5299#!/vizhome/LengthsofpolicyWeek6/Blatt1)
-
+* [Tableau 1](https://public.tableau.com/profile/nicholas5299#!/vizhome/Week6Project_15941277490120/PopulationdensitywithinthestatesoftheUSAincorrelationwithconfirmedcasesofCovid-19)
+* [Tableau 2](https://public.tableau.com/profile/nicholas5299#!/vizhome/LengthsofpolicyWeek6/Blatt1)
+* [Presentation](https://docs.google.com/presentation/d/18exl3zWcM4C_qBaOxa7t_OlXZhz9xOK7Gt3vN9Uxxew/edit#slide=id.gc6f9e470d_0_0)
