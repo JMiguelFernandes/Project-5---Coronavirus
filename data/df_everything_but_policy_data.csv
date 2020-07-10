@@ -1,51 +1,51 @@
 State,2016 presidentialelection,Governor,State Senate,State House,SeniorU.S. Senator,JuniorU.S. Senator,U.S. House of Representatives,Partisan split (as of 2018[update]),Confirmed_cases,Deaths,Density,Pop,LandArea,confirmed_cases_per_1000_inhabitants,deaths_per_1000_inhabitants
-New Jersey,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,173033,15189,1215.1985,8936570,7354,19.362350431989007,1.6996453896741144
-New York,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,396598,32157,412.5218,19440500,47126,20.400606980273142,1.6541241223219567
-Connecticut,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,46717,4335,735.8695,3563080,4842,13.111409230216553,1.2166440270776968
-Massachusetts,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,109838,8172,894.4359,6976600,7800,15.74377203795545,1.1713442077802942
-Rhode Island,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,16991,960,1021.4313,1056160,1034,16.0875246174822,0.9089531889107711
-Louisiana,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic,63289,3278,107.5174,4645180,43204,13.624660400673385,0.7056777132425438
-Michigan,Republican,Democratic,Republican,Republican,Democratic,Democratic,Democratic,Democratic,72581,6218,177.665,10045000,56539,7.225584868093579,0.6190144350423096
-Illinois,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,146612,7014,228.0246,12659700,55519,11.58100112956863,0.5540415649659944
-Maryland,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,69341,3236,626.6735,6083120,9707,11.398920290903352,0.5319638606504558
-Pennsylvania,Republican,Democratic,Republican,Republican,Democratic,Republican,Tied,Democratic,93922,6749,286.5454,12820900,44743,7.3256947640181265,0.5264061025357034
-Delaware,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,11996,512,504.3073,982895,1949,12.204762461910988,0.5209101684310125
-Indiana,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,47432,2687,188.2809,6745350,35826,7.031807096740718,0.39834849192406624
-Mississippi,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,30674,1107,63.7056,2989260,46923,10.261402487572175,0.3703257662431505
-Colorado,Democratic,Democratic,Democratic,Democratic,Democratic,Republican,Democratic,Democratic,33849,1701,56.4012,5845530,103642,5.790578441989007,0.29099157818025057
-New Hampshire,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,5872,379,153.161,1371250,8953,4.282224247948951,0.27639015496809477
-Georgia,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,93319,2857,186.6726,10736100,57513,8.692076266055645,0.2661115302577286
-Minnesota,Democratic,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,37624,1503,71.5922,5700670,79627,6.599925973613628,0.26365321970926225
-Ohio,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Republican,56183,2907,287.504,11747700,40861,4.782468057577227,0.24745269286754004
-Arizona,Republican,Republican,Republican,Republican,Democratic,Republican,Democratic,Republican,94567,1817,64.9549,7378490,113594,12.816579001936711,0.24625634784352898
-New Mexico,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,13063,513,17.285,2096640,121298,6.230444902319903,0.2446771978021978
-Iowa,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,Democratic,31061,721,56.9284,3179850,55857,9.768070820950674,0.2267402550434769
-Virginia,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,65109,1849,218.4404,8626210,39490,7.547810683950425,0.21434674092098385
 Alabama,Republican,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,42862,1007,96.9221,4908620,50645,8.731985771968496,0.20514930876702617
-Washington,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,35247,1354,117.3273,7797100,66456,4.520526862551462,0.1736543073706891
-Missouri,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,23583,1050,89.7453,6169270,68742,3.8226564893415267,0.17019841893773494
-Nevada,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,21575,530,28.5993,3139660,109781,6.871763184548646,0.16880808749992038
-Florida,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,190052,3702,410.1259,21993000,53625,8.641476833537943,0.16832628563633883
-California,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,252895,6334,256.3728,39937500,155779,6.33226917057903,0.1585978090766823
-South Carolina,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,43386,813,173.3176,5210100,30061,8.327287384119307,0.15604307019059135
-Nebraska,Republican,Republican,Unicameral nonpartisan legislature,Unicameral nonpartisan legislature,Republican,Republican,Republican,Republican,19827,284,25.4161,1952570,76824,10.154309448572906,0.14544933088186338
-Wisconsin,Republican,Democratic,Republican,Republican,Republican,Democratic,Republican,Tied,31055,796,108.0496,5851750,54158,5.30695945657282,0.136027684026146
-North Carolina,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic,71670,1422,218.271,10611900,48618,6.7537387272778675,0.1340005088626919
-Kentucky,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic,16376,585,113.9566,4499690,39486,3.639361822703342,0.13000895617253633
-South Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,7028,97,11.9116,903027,75811,7.782713030728871,0.10741650028182989
-North Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,3779,80,11.0393,761723,69001,4.961121037437493,0.10502505503969291
-Oklahoma,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,15648,398,57.6546,3954820,68595,3.9566908228440236,0.10063669142969844
-Kansas,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Republican,15911,283,35.5968,2910360,81759,5.467021261974463,0.09723882956060419
-Arkansas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,23209,286,58.403,3039000,52035,7.637051661730832,0.09410990457387299
-Tennessee,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,50140,637,167.2749,6897580,41235,7.269216159870563,0.09235123043154266
-Vermont,Democratic,Republican,Democratic,Democratic,Democratic,Independent,Democratic,Democratic,1238,56,68.1416,628061,9217,1.9711461147882132,0.08916331375455569
-Texas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,192153,2607,112.8204,29472300,261232,6.519782982665078,0.08845593998432427
-Maine,Democratic,Democratic,Democratic,Democratic,Republican,Independent,Democratic,Democratic,3397,107,43.6336,1345790,30843,2.5241679608259835,0.079507203947124
-Utah,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,24542,181,39.943,3282120,82170,7.477484065177386,0.05514728285376525
-West Virginia,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Democratic,3205,94,73.9691,1778070,24038,1.8025162113977513,0.05286631010027727
-Idaho,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,7370,93,22.097,1826160,82643,4.035790949314408,0.05092653436719674
-Oregon,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,9930,213,44.8086,4301090,95988,2.3087170926439575,0.04952233038601843
-Wyoming,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,1606,20,5.84,567025,97093,2.832326616992196,0.03527181341210705
 Alaska,Republican,Republican,Republican,Coalition,Republican,Republican,Republican,Republican,1107,16,1.2863,734002,570641,1.508170277465184,0.02179830572668739
-Montana,Republican,Democratic,Republican,Republican,Democratic,Republican,Republican,Republican,1167,23,7.4668,1086760,145546,1.073834149214178,0.021163826419816702
+Arizona,Republican,Republican,Republican,Republican,Democratic,Republican,Democratic,Republican,94567,1817,64.9549,7378490,113594,12.816579001936711,0.24625634784352898
+Arkansas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,23209,286,58.403,3039000,52035,7.637051661730832,0.09410990457387299
+California,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,252895,6334,256.3728,39937500,155779,6.33226917057903,0.1585978090766823
+Colorado,Democratic,Democratic,Democratic,Democratic,Democratic,Republican,Democratic,Democratic,33849,1701,56.4012,5845530,103642,5.790578441989007,0.29099157818025057
+Connecticut,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,46717,4335,735.8695,3563080,4842,13.111409230216553,1.2166440270776968
+Delaware,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,11996,512,504.3073,982895,1949,12.204762461910988,0.5209101684310125
+Florida,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,190052,3702,410.1259,21993000,53625,8.641476833537943,0.16832628563633883
+Georgia,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,93319,2857,186.6726,10736100,57513,8.692076266055645,0.2661115302577286
 Hawaii,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,999,19,219.9424,1412690,6423,0.7071615145573339,0.013449518294884227
+Idaho,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,7370,93,22.097,1826160,82643,4.035790949314408,0.05092653436719674
+Illinois,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,146612,7014,228.0246,12659700,55519,11.58100112956863,0.5540415649659944
+Indiana,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,47432,2687,188.2809,6745350,35826,7.031807096740718,0.39834849192406624
+Iowa,Republican,Republican,Republican,Republican,Republican,Republican,Democratic,Democratic,31061,721,56.9284,3179850,55857,9.768070820950674,0.2267402550434769
+Kansas,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Republican,15911,283,35.5968,2910360,81759,5.467021261974463,0.09723882956060419
+Kentucky,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic,16376,585,113.9566,4499690,39486,3.639361822703342,0.13000895617253633
+Louisiana,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic,63289,3278,107.5174,4645180,43204,13.624660400673385,0.7056777132425438
+Maine,Democratic,Democratic,Democratic,Democratic,Republican,Independent,Democratic,Democratic,3397,107,43.6336,1345790,30843,2.5241679608259835,0.079507203947124
+Maryland,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,69341,3236,626.6735,6083120,9707,11.398920290903352,0.5319638606504558
+Massachusetts,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,109838,8172,894.4359,6976600,7800,15.74377203795545,1.1713442077802942
+Michigan,Republican,Democratic,Republican,Republican,Democratic,Democratic,Democratic,Democratic,72581,6218,177.665,10045000,56539,7.225584868093579,0.6190144350423096
+Minnesota,Democratic,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,37624,1503,71.5922,5700670,79627,6.599925973613628,0.26365321970926225
+Mississippi,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,30674,1107,63.7056,2989260,46923,10.261402487572175,0.3703257662431505
+Missouri,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,23583,1050,89.7453,6169270,68742,3.8226564893415267,0.17019841893773494
+Montana,Republican,Democratic,Republican,Republican,Democratic,Republican,Republican,Republican,1167,23,7.4668,1086760,145546,1.073834149214178,0.021163826419816702
+Nebraska,Republican,Republican,Unicameral nonpartisan legislature,Unicameral nonpartisan legislature,Republican,Republican,Republican,Republican,19827,284,25.4161,1952570,76824,10.154309448572906,0.14544933088186338
+Nevada,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,21575,530,28.5993,3139660,109781,6.871763184548646,0.16880808749992038
+New Hampshire,Democratic,Republican,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,5872,379,153.161,1371250,8953,4.282224247948951,0.27639015496809477
+New Jersey,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,173033,15189,1215.1985,8936570,7354,19.362350431989007,1.6996453896741144
+New Mexico,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,13063,513,17.285,2096640,121298,6.230444902319903,0.2446771978021978
+New York,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,396598,32157,412.5218,19440500,47126,20.400606980273142,1.6541241223219567
+North Carolina,Republican,Democratic,Republican,Republican,Republican,Republican,Republican,Democratic,71670,1422,218.271,10611900,48618,6.7537387272778675,0.1340005088626919
+North Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,3779,80,11.0393,761723,69001,4.961121037437493,0.10502505503969291
+Ohio,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Republican,56183,2907,287.504,11747700,40861,4.782468057577227,0.24745269286754004
+Oklahoma,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,15648,398,57.6546,3954820,68595,3.9566908228440236,0.10063669142969844
+Oregon,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,9930,213,44.8086,4301090,95988,2.3087170926439575,0.04952233038601843
+Pennsylvania,Republican,Democratic,Republican,Republican,Democratic,Republican,Tied,Democratic,93922,6749,286.5454,12820900,44743,7.3256947640181265,0.5264061025357034
+Rhode Island,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,16991,960,1021.4313,1056160,1034,16.0875246174822,0.9089531889107711
+South Carolina,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,43386,813,173.3176,5210100,30061,8.327287384119307,0.15604307019059135
+South Dakota,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,7028,97,11.9116,903027,75811,7.782713030728871,0.10741650028182989
+Tennessee,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,50140,637,167.2749,6897580,41235,7.269216159870563,0.09235123043154266
+Texas,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,192153,2607,112.8204,29472300,261232,6.519782982665078,0.08845593998432427
+Utah,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,24542,181,39.943,3282120,82170,7.477484065177386,0.05514728285376525
+Vermont,Democratic,Republican,Democratic,Democratic,Democratic,Independent,Democratic,Democratic,1238,56,68.1416,628061,9217,1.9711461147882132,0.08916331375455569
+Virginia,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,65109,1849,218.4404,8626210,39490,7.547810683950425,0.21434674092098385
+Washington,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,Democratic,35247,1354,117.3273,7797100,66456,4.520526862551462,0.1736543073706891
+West Virginia,Republican,Republican,Republican,Republican,Democratic,Republican,Republican,Democratic,3205,94,73.9691,1778070,24038,1.8025162113977513,0.05286631010027727
+Wisconsin,Republican,Democratic,Republican,Republican,Republican,Democratic,Republican,Tied,31055,796,108.0496,5851750,54158,5.30695945657282,0.136027684026146
+Wyoming,Republican,Republican,Republican,Republican,Republican,Republican,Republican,Republican,1606,20,5.84,567025,97093,2.832326616992196,0.03527181341210705
