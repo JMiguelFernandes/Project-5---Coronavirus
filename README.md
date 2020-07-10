@@ -40,7 +40,6 @@ In that context, we worked together on the analysis and created visualizations u
 ## Links
 
 [Trello](https://trello.com/b/vm5KySnv/week-6-project)
---- REPOSITORY ---
---- SLIDES ---
---- TABLEAU ---
---- NOTEBOOK ---
+[Tableau](https://public.tableau.com/profile/nicholas5299#!/vizhome/Week6Project_15941277490120/PopulationdensitywithinthestatesoftheUSAincorrelationwithconfirmedcasesofCovid-19)
+[Tableau](https://public.tableau.com/profile/nicholas5299#!/vizhome/LengthsofpolicyWeek6/Blatt1)
+
