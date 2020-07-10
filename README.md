@@ -37,6 +37,10 @@ Starting our project, we first discussed possible topics of interest. Later, we 
 In that context, we worked together on the analysis and created visualizations using Tableau Public for our presentation. Yet, the heart of the analysis are the graphs using Matplotlib in the Jupyter Notebook. After this process, we created the slides, adding all the information possible that a 5 minute presentation allow. 
 
 
+## Analysis
+![]()
+
+
 ## Links
 
 * [Trello](https://trello.com/b/vm5KySnv/week-6-project)
