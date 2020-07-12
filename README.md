@@ -64,7 +64,7 @@ Please note:
 
 ## Analysis
 
-*Please refer to [Notebook 4*](https://github.com/JMiguelFernandes/Project-6---Coronavirus-in-the-US/blob/master/4.%20Analysis.ipynb)
+*Please refer to [Notebook 4](https://github.com/JMiguelFernandes/Project-6---Coronavirus-in-the-US/blob/master/4.%20Analysis.ipynb)*
 
 1. We first looked into the number of confirmed infections and deaths per state, matching this information with the political party strength in each state based on how they voted in the 2016 elections. The results of our ttests could not confirm any correlation between how states voted and their number of confirmed infections or deaths. We did, however, find that the number of deaths per 1000 inhabitants for Democrat states was significantly higher. We suggest that the reason for this is geographical, as the virus hit the (mostly Democrat) northeast coast the hardest, with New York being the epicenter of the pandemic for quite some time. Due to the multiple levels of US government that contribute to policy making, we decided to also look at the affliation of Govenors for each state, as they are responsible for issuing statewide orders, but the difference in the number of deaths per 1000 inhabitants remained significant at a 95% confidence level.
 
