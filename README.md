@@ -82,6 +82,8 @@ Please note:
 
 4. We also looked at differences in testing between Democrat and Republican states, but found no significant differences in the total number of tests per 1000 inhabitants by 2020.07.04 (the last day for which we have data).
 
+5. Our final conclusion was that our hypothesis is correct, there is no correlation between a state's progression of the virus and whether said state is Democrat or Republican. There are however many more factors we could look at, e.g. federal law, the societal infrastructure of the US and mayoral policy making, among others.
+
 ## Links
 
 * [Trello](https://trello.com/b/vm5KySnv/week-6-project)
